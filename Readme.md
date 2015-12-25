@@ -1,0 +1,6 @@
+--This is the guide to a very basic node.js server setup
+--Download Node.js before using index.js
+--Save package.json and index.js in a dedicated directory.
+-- Open terminal and paste npm install --save express@4.10.2, express helps to send the server response to the HTML web page
+-- To run index.js, paste node index.js into you terminal
+--Open http://localhost:3000/? to view the response
